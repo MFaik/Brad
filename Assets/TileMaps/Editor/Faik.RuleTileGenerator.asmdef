@@ -1,0 +1,24 @@
+{
+    "name": "RuleTileGenerator",
+    "rootNamespace": "",
+    "references": [
+        "GUID:613783dc1674e844b87788ea74ede0f6"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.2d.tilemap.extras",
+            "expression": "2.2.2",
+            "define": "TILEMAP_EXTRAS_2_2_2_OR_NEWER"
+        }
+    ],
+    "noEngineReferences": false
+}
